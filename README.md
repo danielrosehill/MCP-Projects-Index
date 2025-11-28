@@ -15,6 +15,9 @@ This repository serves as a comprehensive index of my Model Context Protocol (MC
 ### Environmental & Location Services
 - **[Google Air Quality MCP](https://github.com/danielrosehill/Google-Air-Quality-MCP)** - Air quality data integration via Google APIs
 
+### Media & Transcription
+- **[Gemini Transcription MCP](https://github.com/danielrosehill/Gemini-Transcription-MCP)** - MCP server for audio/video transcription using Google Gemini
+
 ## API Documentation Collections
 
 Research and documentation gathered for MCP development:

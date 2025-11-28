@@ -29,6 +29,16 @@
               "description": "Air quality data integration via Google APIs"
             }
           ]
+        },
+        "media_transcription": {
+          "name": "Media & Transcription",
+          "projects": [
+            {
+              "name": "Gemini Transcription MCP",
+              "url": "https://github.com/danielrosehill/Gemini-Transcription-MCP",
+              "description": "MCP server for audio/video transcription using Google Gemini"
+            }
+          ]
         }
       }
     },
@@ -125,14 +135,14 @@
     }
   },
   "metadata": {
-    "total_projects": 12,
-    "completed_projects": 3,
+    "total_projects": 13,
+    "completed_projects": 4,
     "planned_projects": 2,
     "documentation_projects": 2,
     "auto_generated_projects": 1,
     "reference_projects": 1,
     "meta_projects": 2,
     "platform_specific_projects": 2,
-    "last_updated": "2025-08-09"
+    "last_updated": "2025-11-28"
   }
 }
