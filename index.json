@@ -39,6 +39,17 @@
               "description": "MCP server for audio/video transcription using Google Gemini"
             }
           ]
+        },
+        "developer_tools": {
+          "name": "Developer Tools",
+          "projects": [
+            {
+              "name": "GitHub Gist MCP (Minimal)",
+              "url": "https://github.com/danielrosehill/Github-Gist-MCP-Minimal",
+              "description": "Streamlined fork providing 4 essential gist tools (create private/public, update, delete) with auto-generated verification footers",
+              "fork_of": "gistpad-mcp"
+            }
+          ]
         }
       }
     },
@@ -135,14 +146,14 @@
     }
   },
   "metadata": {
-    "total_projects": 13,
-    "completed_projects": 4,
+    "total_projects": 14,
+    "completed_projects": 5,
     "planned_projects": 2,
     "documentation_projects": 2,
     "auto_generated_projects": 1,
     "reference_projects": 1,
     "meta_projects": 2,
     "platform_specific_projects": 2,
-    "last_updated": "2025-11-28"
+    "last_updated": "2025-12-02"
   }
 }
