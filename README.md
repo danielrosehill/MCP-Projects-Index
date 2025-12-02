@@ -1,6 +1,6 @@
 # MCP Projects Index
 
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index) [![NPM Profile](https://img.shields.io/badge/NPM-Profile-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~danielrosehill)
 
 An index of MCP (Model Context Protocol) projects I've undertaken or am currently working on. This includes completed MCP servers, implementation notes, and planning documents. I'm enthusiastic about building with MCP and bridging the gap between usability and potential.
 
@@ -8,10 +8,55 @@ An index of MCP (Model Context Protocol) projects I've undertaken or am currentl
 
 ---
 
+## Published NPM Packages
+
+MCP servers I've published to npm for easy installation.
+
+---
+
+### @danielrosehill/nocodb-mcp-server
+
+MCP server for NocoDB database interactions
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/@danielrosehill/nocodb-mcp-server)
+
+---
+
+### nuclino-mcp
+
+MCP server for Nuclino workspace management
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/nuclino-mcp)
+
+---
+
+### homebox-mcp
+
+MCP server for Homebox home inventory management
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/homebox-mcp)
+
+---
+
+### gemini-transcription-mcp
+
+Audio transcription using Google Gemini's multimodal capabilities
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/gemini-transcription-mcp)
+
+---
+
+### github-gist-mcp-minimal
+
+Minimal MCP server for GitHub Gist operations
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/github-gist-mcp-minimal)
+
+---
+
 ## Table of Contents
 
 - [Completed MCP Servers](#completed-mcp-servers)
-- [Published NPM Packages](#published-npm-packages)
 - [API Documentation Collections](#api-documentation-collections)
 - [Auto-Generated Projects](#auto-generated-projects)
 - [Work in Progress & Planning](#work-in-progress--planning)
@@ -24,13 +69,19 @@ An index of MCP (Model Context Protocol) projects I've undertaken or am currentl
 
 ## Completed MCP Servers
 
+---
+
 ### Audio & Transcription
+
+---
 
 #### Cloud ASR MCP
 
 Cloud-based automatic speech recognition via MCP
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Cloud-ASR-MCP)
+
+---
 
 #### Gemini Transcription MCP
 
@@ -42,11 +93,15 @@ Audio transcription using Google Gemini's multimodal capabilities
 
 ### Data & Knowledge Management
 
+---
+
 #### NocoDB Data MCP
 
 MCP server for NocoDB database interactions
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/NocoDB-Data-MCP)
+
+---
 
 #### Nuclino MCP
 
@@ -58,6 +113,8 @@ MCP server for Nuclino workspace management
 
 ### Environmental & Location Services
 
+---
+
 #### Google Air Quality MCP
 
 Air quality data integration via Google APIs
@@ -68,6 +125,8 @@ Air quality data integration via Google APIs
 
 ### Home & Inventory Management
 
+---
+
 #### Homebox MCP Server
 
 MCP server for Homebox home inventory management with support for LAN and WAN URLs
@@ -76,29 +135,19 @@ MCP server for Homebox home inventory management with support for LAN and WAN UR
 
 ---
 
-## Published NPM Packages
-
-MCP servers I've published to npm for easy installation.
-
-| Package | Description |
-|---------|-------------|
-| [@danielrosehill/nocodb-mcp-server](https://www.npmjs.com/package/@danielrosehill/nocodb-mcp-server) | MCP server for NocoDB database interactions |
-| [nuclino-mcp](https://www.npmjs.com/package/nuclino-mcp) | MCP server for Nuclino workspace management |
-| [homebox-mcp](https://www.npmjs.com/package/homebox-mcp) | MCP server for Homebox home inventory management |
-| [gemini-transcription-mcp](https://www.npmjs.com/package/gemini-transcription-mcp) | Audio transcription using Google Gemini's multimodal capabilities |
-| [github-gist-mcp-minimal](https://www.npmjs.com/package/github-gist-mcp-minimal) | Minimal MCP server for GitHub Gist operations |
-
----
-
 ## API Documentation Collections
 
 Research and documentation gathered for MCP development.
+
+---
 
 #### Green Invoice API Notes
 
 API documentation and notes for Green Invoice integration
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
+
+---
 
 #### WAQI API OpenAPI
 
@@ -110,6 +159,8 @@ World Air Quality Index API documentation
 
 ## Auto-Generated Projects
 
+---
+
 #### Google Air Quality MCP (Postman Generated)
 
 Auto-generated MCP from Postman collections
@@ -120,13 +171,19 @@ Auto-generated MCP from Postman collections
 
 ## Work in Progress & Planning
 
+---
+
 ### Meta Projects
+
+---
 
 #### Local AI Agent Planning Notes
 
 Comprehensive local MCP management system planning
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes)
+
+---
 
 #### MCP Server Ideas
 
@@ -138,6 +195,8 @@ Future MCP development concepts and ideas
 
 ### Platform-Specific Projects
 
+---
+
 #### Linux MCP Clients
 
 MCP clients and tools for Linux environments
@@ -148,11 +207,15 @@ MCP clients and tools for Linux environments
 
 ## Reference & Research
 
+---
+
 #### Awesome MCP Clients
 
 Community-maintained collection of MCP clients and resources
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/punkpeye/awesome-mcp-clients)
+
+---
 
 #### Favorite MCPs
 
@@ -160,11 +223,15 @@ Curated collection of favorite MCP servers and resources
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Favorite-MCPs)
 
+---
+
 #### Claude MCP Guidelines
 
 Guidelines and best practices for working with MCP in Claude
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-MCP-Guidelines)
+
+---
 
 #### MCP Installation Notebook
 
@@ -176,11 +243,15 @@ Documentation and notes for MCP installation procedures
 
 ## Resource Lists
 
+---
+
 #### Jewish Interest MCP Projects
 
 Curated list of MCP servers for Jewish community needs
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+
+---
 
 #### Israel Related MCPs
 
@@ -192,17 +263,23 @@ Curated list of MCP servers related to Israel
 
 ## Tools & Utilities
 
+---
+
 #### Claude Code MCP Command Generator
 
 Tool for generating MCP commands for Claude Code
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Code-MCP-Command-Generator)
 
+---
+
 #### Smithery Claude Code MCP Jumpstarter
 
 Jumpstarter tool for Smithery MCP integration with Claude Code
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Smithery-Claude-Code-MCP-Jumpstarter)
+
+---
 
 #### Agent Task Repo Pattern With MCP
 
@@ -213,6 +290,8 @@ Pattern and templates for agent task repositories with MCP integration
 ---
 
 ## Testing & Experimentation
+
+---
 
 #### Sefaria MCP Testing
 
