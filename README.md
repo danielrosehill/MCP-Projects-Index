@@ -15,6 +15,7 @@ An index of MCP (Model Context Protocol) projects I've undertaken or am currentl
 - [Auto-Generated Projects](#auto-generated-projects)
 - [Work in Progress & Planning](#work-in-progress--planning)
 - [Reference & Research](#reference--research)
+- [Resource Lists](#resource-lists)
 - [Tools & Utilities](#tools--utilities)
 - [Testing & Experimentation](#testing--experimentation)
 
@@ -74,9 +75,6 @@ MCP server for Homebox home inventory management with support for LAN and WAN UR
 
 ---
 
-### Media & Transcription
-- **[Gemini Transcription MCP](https://github.com/danielrosehill/Gemini-Transcription-MCP)** - MCP server for audio/video transcription using Google Gemini
-
 ## API Documentation Collections
 
 Research and documentation gathered for MCP development.
@@ -131,12 +129,6 @@ MCP clients and tools for Linux environments
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Linux-MCP-Clients)
 
-#### Jewish Interest MCP Projects
-
-Specialized MCP servers for Jewish community needs
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
-
 ---
 
 ## Reference & Research
@@ -164,6 +156,22 @@ Guidelines and best practices for working with MCP in Claude
 Documentation and notes for MCP installation procedures
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Installation-Notebook)
+
+---
+
+## Resource Lists
+
+#### Jewish Interest MCP Projects
+
+Curated list of MCP servers for Jewish community needs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+
+#### Israel Related MCPs
+
+Curated list of MCP servers related to Israel
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israel-Related-MCPs)
 
 ---
 
