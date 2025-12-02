@@ -11,6 +11,7 @@ An index of MCP (Model Context Protocol) projects I've undertaken or am currentl
 ## Table of Contents
 
 - [Completed MCP Servers](#completed-mcp-servers)
+- [Published NPM Packages](#published-npm-packages)
 - [API Documentation Collections](#api-documentation-collections)
 - [Auto-Generated Projects](#auto-generated-projects)
 - [Work in Progress & Planning](#work-in-progress--planning)
@@ -72,6 +73,20 @@ Air quality data integration via Google APIs
 MCP server for Homebox home inventory management with support for LAN and WAN URLs
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Homebox-MCP-Server)
+
+---
+
+## Published NPM Packages
+
+MCP servers I've published to npm for easy installation.
+
+| Package | Description |
+|---------|-------------|
+| [@danielrosehill/nocodb-mcp-server](https://www.npmjs.com/package/@danielrosehill/nocodb-mcp-server) | MCP server for NocoDB database interactions |
+| [nuclino-mcp](https://www.npmjs.com/package/nuclino-mcp) | MCP server for Nuclino workspace management |
+| [homebox-mcp](https://www.npmjs.com/package/homebox-mcp) | MCP server for Homebox home inventory management |
+| [gemini-transcription-mcp](https://www.npmjs.com/package/gemini-transcription-mcp) | Audio transcription using Google Gemini's multimodal capabilities |
+| [github-gist-mcp-minimal](https://www.npmjs.com/package/github-gist-mcp-minimal) | Minimal MCP server for GitHub Gist operations |
 
 ---
 
