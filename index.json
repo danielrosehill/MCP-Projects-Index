@@ -56,6 +56,16 @@
               "fork_of": "gistpad-mcp"
             }
           ]
+        },
+        "storage_file_management": {
+          "name": "Storage & File Management",
+          "projects": [
+            {
+              "name": "Save To NAS MCP",
+              "url": "https://github.com/danielrosehill/Save-To-NAS-MCP",
+              "description": "MCP server for saving files and folders to a Synology NAS with automatic share discovery and NFS mounting"
+            }
+          ]
         }
       }
     },
@@ -152,8 +162,8 @@
     }
   },
   "metadata": {
-    "total_projects": 15,
-    "completed_projects": 5,
+    "total_projects": 16,
+    "completed_projects": 6,
     "wip_projects": 1,
     "planned_projects": 2,
     "documentation_projects": 2,

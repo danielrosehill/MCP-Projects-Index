@@ -22,7 +22,7 @@ MCP server for NocoDB database interactions
 
 ---
 
-### nuclino-mcp
+### Nuclino MCP
 
 MCP server for Nuclino workspace management
 
@@ -30,7 +30,7 @@ MCP server for Nuclino workspace management
 
 ---
 
-### homebox-mcp
+### Homebox MCP
 
 MCP server for Homebox home inventory management
 
@@ -38,7 +38,7 @@ MCP server for Homebox home inventory management
 
 ---
 
-### gemini-transcription-mcp
+### Gemini Transcription MCP
 
 Audio transcription using Google Gemini's multimodal capabilities
 
@@ -46,7 +46,7 @@ Audio transcription using Google Gemini's multimodal capabilities
 
 ---
 
-### github-gist-mcp-minimal
+### GitHub Gist MCP Minimal
 
 Minimal MCP server for GitHub Gist operations
 
@@ -132,6 +132,18 @@ Air quality data integration via Google APIs
 MCP server for Homebox home inventory management with support for LAN and WAN URLs
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Homebox-MCP-Server)
+
+---
+
+### Storage & File Management
+
+---
+
+#### Save To NAS MCP
+
+MCP server for saving files and folders to a Synology NAS with automatic share discovery and NFS mounting
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Save-To-NAS-MCP)
 
 ---
 
