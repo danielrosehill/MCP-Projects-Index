@@ -30,13 +30,19 @@
             }
           ]
         },
-        "media_transcription": {
-          "name": "Media & Transcription",
+        "asr_stt": {
+          "name": "ASR & Speech-to-Text",
           "projects": [
             {
               "name": "Gemini Transcription MCP",
               "url": "https://github.com/danielrosehill/Gemini-Transcription-MCP",
               "description": "MCP server for audio/video transcription using Google Gemini"
+            },
+            {
+              "name": "Local Transcription MCP",
+              "url": "https://github.com/danielrosehill/Local-Transcription-MCP",
+              "description": "Local speech-to-text MCP server for AMD GPUs with ROCm support, using Whisper for transcription and Ollama for post-processing",
+              "status": "work-in-progress"
             }
           ]
         },
@@ -146,14 +152,15 @@
     }
   },
   "metadata": {
-    "total_projects": 14,
+    "total_projects": 15,
     "completed_projects": 5,
+    "wip_projects": 1,
     "planned_projects": 2,
     "documentation_projects": 2,
     "auto_generated_projects": 1,
     "reference_projects": 1,
     "meta_projects": 2,
     "platform_specific_projects": 2,
-    "last_updated": "2025-12-02"
+    "last_updated": "2025-12-03"
   }
 }
