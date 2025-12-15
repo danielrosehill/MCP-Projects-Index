@@ -147,6 +147,18 @@ MCP server for Wasabi cloud storage with tools for managing buckets, uploading/d
 
 ---
 
+### Network & Infrastructure
+
+---
+
+#### My Network MCP
+
+MCP server for maintaining a manually managed directory of local network resources, providing AI agents with network topology information for SSH operations
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/My-Network-MCP)
+
+---
+
 ## API Documentation Collections
 
 Research and documentation gathered for MCP development.
