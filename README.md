@@ -4,7 +4,7 @@
 
 An index of MCP (Model Context Protocol) projects I've undertaken or am currently working on. This includes completed MCP servers, implementation notes, and planning documents. I'm enthusiastic about building with MCP and bridging the gap between usability and potential.
 
-**Last Updated:** December 2, 2025
+**Last Updated:** December 15, 2025
 
 ---
 
@@ -14,43 +14,43 @@ MCP servers I've published to npm for easy installation.
 
 ---
 
-### @danielrosehill/nocodb-mcp-server
+### Cloud ASR MCP
 
-MCP server for NocoDB database interactions
+MCP server for audio transcription using OpenRouter (Gemini, GPT-4o, Voxtral), Mistral Voxtral, OpenAI, AssemblyAI, and Google Gemini
 
-[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/@danielrosehill/nocodb-mcp-server)
-
----
-
-### Nuclino MCP
-
-MCP server for Nuclino workspace management
-
-[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/nuclino-mcp)
-
----
-
-### Homebox MCP
-
-MCP server for Homebox home inventory management
-
-[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/homebox-mcp)
-
----
-
-### Gemini Transcription MCP
-
-Audio transcription using Google Gemini's multimodal capabilities
-
-[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/gemini-transcription-mcp)
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/cloud-asr-mcp)
 
 ---
 
 ### GitHub Gist MCP Minimal
 
-Minimal MCP server for GitHub Gist operations
+A minimal MCP server for creating and managing GitHub Gists
 
 [![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/github-gist-mcp-minimal)
+
+---
+
+### Homebox MCP
+
+MCP server for Homebox inventory management system
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/homebox-mcp)
+
+---
+
+### Save To NAS MCP
+
+MCP server for saving files and folders to a local NAS over NFS
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/save-to-nas-mcp)
+
+---
+
+### Wasabi MCP
+
+MCP server for Wasabi S3-compatible cloud storage operations
+
+[![View on NPM](https://img.shields.io/badge/View-NPM-CB3837?style=flat&logo=npm)](https://www.npmjs.com/package/wasabi-mcp)
 
 ---
 
@@ -103,14 +103,6 @@ MCP server for NocoDB database interactions
 
 ---
 
-#### Nuclino MCP
-
-MCP server for Nuclino workspace management
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/nuclino-mcp)
-
----
-
 ### Environmental & Location Services
 
 ---
@@ -144,6 +136,14 @@ MCP server for Homebox home inventory management with support for LAN and WAN UR
 MCP server for saving files and folders to a Synology NAS with automatic share discovery and NFS mounting
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Save-To-NAS-MCP)
+
+---
+
+#### Wasabi S3 MCP
+
+MCP server for Wasabi cloud storage with tools for managing buckets, uploading/downloading files, and generating presigned URLs
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Wasabi-S3-MCP)
 
 ---
 
