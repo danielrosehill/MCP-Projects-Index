@@ -108,7 +108,7 @@ Local speech-to-text with cleanup on AMD GPU machines
 
 ---
 
-#### OR Audio Transcription MCP
+#### Open Router Audio Transcription MCP
 
 Audio transcription MCP server via OpenRouter
 
