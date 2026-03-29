@@ -108,6 +108,14 @@ Local speech-to-text with cleanup on AMD GPU machines
 
 ---
 
+#### OR Audio Transcription MCP
+
+Audio transcription MCP server via OpenRouter
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/OR-Audio-Transcription-MCP)
+
+---
+
 ### AI & Image Generation
 
 ---
