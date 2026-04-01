@@ -116,6 +116,18 @@ Audio transcription MCP server via OpenRouter
 
 ---
 
+### Finance & Invoicing
+
+---
+
+#### GreenInvoice MCP
+
+MCP server for Israeli invoicing and accounting via the Green Invoice API — create invoices, receipts, manage clients, items, payment links, and webhooks
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/GreenInvoice-MCP)
+
+---
+
 ### AI & Image Generation
 
 ---
