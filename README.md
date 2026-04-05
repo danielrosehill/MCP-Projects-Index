@@ -546,6 +546,14 @@ Documentation on using Claude Code in conjunction with MCPM
 
 ---
 
+#### MCP Aggregation Notes
+
+Ideating/brainstorming frustrations with MCP aggregation and planning an easier approach
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Aggregation-Notes)
+
+---
+
 #### MCP Discords
 
 MCP Discord communities and resources
