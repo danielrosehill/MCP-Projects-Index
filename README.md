@@ -260,6 +260,18 @@ MCP for K3B operations (intended for local use)
 
 ---
 
+### Shopping & Retail
+
+---
+
+#### Israeli Tech Shopping MCP
+
+MCP server for comparison shopping across Israeli tech retailers with browser automation
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP)
+
+---
+
 ### Storage & File Management
 
 ---
