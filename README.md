@@ -140,6 +140,14 @@ Local MCP for using Nano Banana via Fal AI
 
 ---
 
+#### Tech Diagram Maker
+
+Desktop GUI, CLI, and MCP server for creating and editing tech diagrams using Fal AI's Nano Banana 2 model
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Tech-Diagram-Maker)
+
+---
+
 ### Communication & Email
 
 ---
