@@ -586,6 +586,14 @@ MCP Discord communities and resources
 
 ---
 
+#### MCP Vault
+
+Personal vault/collection of MCP server resources and references
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Vault)
+
+---
+
 #### Jewish Interest MCP Projects
 
 Curated list of MCP servers for Jewish community needs
