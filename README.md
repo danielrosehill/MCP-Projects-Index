@@ -574,6 +574,14 @@ Ideating/brainstorming frustrations with MCP aggregation and planning an easier 
 
 ---
 
+#### MCP Architecture 0426
+
+Documentation of the two-tier MCP aggregation architecture — LAN VM default, localhost for exceptions — covering client portability, location flexibility, and context load management
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/MCP-Architecture-0426)
+
+---
+
 #### MCP Discords
 
 MCP Discord communities and resources
