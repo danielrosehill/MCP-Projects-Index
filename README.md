@@ -4,7 +4,7 @@
 
 An index of MCP (Model Context Protocol) projects I've undertaken or am currently working on. This includes completed MCP servers, implementation notes, and planning documents. I'm enthusiastic about building with MCP and bridging the gap between usability and potential.
 
-**Last Updated:** March 27, 2026
+**Last Updated:** April 10, 2026
 
 ---
 
@@ -140,9 +140,17 @@ Local MCP for using Nano Banana via Fal AI
 
 ---
 
+#### Nano Tech Diagrams MCP
+
+MCP server for creating tech diagrams using Nano Banana 2 (Fal AI). Text-to-image, image-to-image, whiteboard cleanup, 28+ style presets. Returns both URL and inline base64 for remote-safe operation.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Nano-Tech-Diagrams-MCP)
+
+---
+
 #### Tech Diagram Maker
 
-Desktop GUI, CLI, and MCP server for creating and editing tech diagrams using Fal AI's Nano Banana 2 model
+Desktop GUI and CLI for creating and editing tech diagrams using Fal AI's Nano Banana 2 model (MCP server split to Nano-Tech-Diagrams-MCP)
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Tech-Diagram-Maker)
 
