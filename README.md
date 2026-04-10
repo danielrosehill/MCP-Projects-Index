@@ -148,14 +148,6 @@ MCP server for creating tech diagrams using Nano Banana 2 (Fal AI). Text-to-imag
 
 ---
 
-#### Tech Diagram Maker
-
-Desktop GUI and CLI for creating and editing tech diagrams using Fal AI's Nano Banana 2 model (MCP server split to Nano-Tech-Diagrams-MCP)
-
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill/Tech-Diagram-Maker)
-
----
-
 ### Communication & Email
 
 ---
