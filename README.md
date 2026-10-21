@@ -1,6 +1,6 @@
 # MCP Projects Index
 
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index) [![NPM Profile](https://img.shields.io/badge/NPM-Profile-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~danielrosehill)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here) [![NPM Profile](https://img.shields.io/badge/NPM-Profile-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~danielrosehill)
 
 An index of MCP (Model Context Protocol) projects I've undertaken or am currently working on. This includes completed MCP servers, implementation notes, and planning documents. I'm enthusiastic about building with MCP and bridging the gap between usability and potential.
 
